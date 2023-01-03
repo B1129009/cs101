@@ -30,6 +30,7 @@ void print_truck(int T){
 int main()
 {
     int T=5;
+    printf("   X'mas tree\n");
     for(int rows=3;rows<=7;rows=rows+2){
       print_top(rows);
       
